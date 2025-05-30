@@ -1,3 +1,3 @@
 ## Hi there 👋
-this is my first git repository
-author- Ishika Choudhary
+This is my first Git Repository.
+Author- Ishika Choudhary
